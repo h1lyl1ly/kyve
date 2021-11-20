@@ -13,7 +13,7 @@ Block Explorer: https://moonbase-blockscout.testnet.moonbeam.network
 2. Add token KYVE. Contract: **0xb5e10F806e86b7d2415c126d8864032f12325BBE**
 3. Open https://app.kyve.network/faucet
 4. Click on share on twitter
-5. Add you link with share twitter and click ’’Claim your tokens’’
+5. Add you link with share twitter and click "Claim your tokens"
 
 # install
 ## 1 CPU x 2 GB RAM x 40 GB SSD (requirements)
