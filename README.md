@@ -4,7 +4,7 @@
 
 1. Open metamask and add **Moonbase Alpha**
 ```
-**Network** Name: Moonbase Alpha
+Network Name: Moonbase Alpha
 RPC URL: https://rpc.testnet.moonbeam.network
 ChainID: 1287
 Symbol: DEV
