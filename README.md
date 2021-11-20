@@ -98,8 +98,7 @@ docker run -d -it --restart=always \
 
 
 
-These are <b style='color:red'>red words</b>.
-
+<h3 style="color:#ff0000">Danger</h3>
 
 
 
