@@ -69,7 +69,7 @@ docker run -d -it --restart=always \
 --stake <amount> \
 -e https://rpc.testnet.moonbeam.network
 ```
-**Up cosmos (one command)**
+@@**Up cosmos (one command)**
 ```
 docker pull kyve/cosmos:v0.0.0 && \
 docker stop kyve-cosmos-node 2>/dev/null; \
