@@ -4,11 +4,11 @@
 
 1. Open metamask and add **Moonbase Alpha**
 ```
-**Network Name**: Moonbase Alpha
-**RPC URL**: https://rpc.testnet.moonbeam.network
-**ChainID**: 1287
-**Symbol**: DEV
-**Block Explorer**: https://moonbase-blockscout.testnet.moonbeam.network
+**Network** Name: Moonbase Alpha
+RPC URL: https://rpc.testnet.moonbeam.network
+ChainID: 1287
+Symbol: DEV
+Block Explorer: https://moonbase-blockscout.testnet.moonbeam.network
 ```
 3. add token KYVE. Contract: 0xb5e10F806e86b7d2415c126d8864032f12325BBE
 4. open https://app.kyve.network/faucet
