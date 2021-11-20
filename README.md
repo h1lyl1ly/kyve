@@ -2,7 +2,8 @@
 ## Preparing to install
 
 
-1. Open metamask and add > **Moonbase Alpha**
+1. Open metamask and add 
+> sddsd **Moonbase Alpha**
 2. add token KYVE. Contract: 0xb5e10F806e86b7d2415c126d8864032f12325BBE
 3. open https://app.kyve.network/faucet
 4. Click on share on twitter
