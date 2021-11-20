@@ -129,11 +129,11 @@ docker logs kyve-cosmos-node --follow --tail=100
 ```
 
 ## Logs
-
+```
 docker logs kyve-avalanche-node --follow --tail=100
 docker logs kyve-moonriver-node --follow --tail=100
 docker logs kyve-cosmos-node --follow --tail=100
-
+```
 
 
 
