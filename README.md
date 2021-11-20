@@ -7,9 +7,11 @@ Click on share on twitter
 Add you link with share twitter and click ''Claim your tokens''
 
 # install
+```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-docker install (one command)
+Docker install (one command)
+```
 sudo apt-get install curl gnupg apt-transport-https ca-certificates \
 lsb-release -y && curl -fsSL https://download.docker.com/linux/ubuntu/gpg \
 | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg && \
