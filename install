@@ -1,5 +1,4 @@
 sudo apt-get update && sudo apt-get upgrade -y
-Download docker (one command)
 sudo apt-get install curl gnupg apt-transport-https ca-certificates \
 lsb-release -y && curl -fsSL https://download.docker.com/linux/ubuntu/gpg \
 | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg && \
