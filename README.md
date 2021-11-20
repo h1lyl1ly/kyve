@@ -98,9 +98,7 @@ docker run -d -it --restart=always \
 
 
 
-
-<font color="red">This is some text!</font>
-
+These are <b style='color:red'>red words</b>.
 
 
 
