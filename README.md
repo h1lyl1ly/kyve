@@ -36,12 +36,13 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 ```
 sudo systemctl start docker && sudo systemctl enable docker
 ```
-**NOTE**
-In the commands above you need to replace 2 variables:
 
+**NOTE**
+In the commands below you need to replace 2 variables:
 <PK> - to the private key from the metamask (where DEV and KYVE were requested);
 <amount> - to the desired number of tokens (I recommend from 11 to 990, a smaller or larger number may cause an error).
 **Up avalanche (one command)**
+  
 ```
 docker pull kyve/evm:v0.0.11 && \
 docker stop kyve-avalanche-node 2>/dev/null; \
