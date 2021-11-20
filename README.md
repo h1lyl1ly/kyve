@@ -1,6 +1,6 @@
 # kyve
 ## Preparing to install
-## 1 CPU x 2 GB RAM x 40 GB SSD (requirements)
+
 
 1. Open metamask and add **Moonbase Alpha**
 2. add token KYVE. Contract: 0xb5e10F806e86b7d2415c126d8864032f12325BBE
@@ -9,6 +9,7 @@
 5. Add you link with share twitter and click ''Claim your tokens''
 
 # install
+## 1 CPU x 2 GB RAM x 40 GB SSD (requirements)
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
