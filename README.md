@@ -1,6 +1,26 @@
 # kyve
 ## Preparing to install
 
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
+
+
+
+
+
+
 1. Open metamask and add **Moonbase Alpha**
 ```
 Network Name: Moonbase Alpha
@@ -69,7 +89,7 @@ docker run -d -it --restart=always \
 --stake <amount> \
 -e https://rpc.testnet.moonbeam.network
 ```
-@@**Up cosmos (one command)**
+**Up cosmos (one command)**
 ```
 docker pull kyve/cosmos:v0.0.0 && \
 docker stop kyve-cosmos-node 2>/dev/null; \
@@ -83,19 +103,6 @@ docker run -d -it --restart=always \
 ```
 
 
-
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 
 
