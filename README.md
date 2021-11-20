@@ -41,7 +41,9 @@ sudo systemctl start docker && sudo systemctl enable docker
 
 In the commands below you need to replace 2 variables:
 
-- **PK** - to the private key from the metamask (where DEV and KYVE were requested);
+```diff
+PK - to the private key from the metamask (where DEV and KYVE were requested);
+```
 - **amount** - to the desired number of tokens (I recommend from 11 to 990, a smaller or larger number may cause an error).
 
 **Up avalanche (one command)**
